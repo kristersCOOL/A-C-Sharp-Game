@@ -1,5 +1,2 @@
-# C-Sharp-Tic-Tac-Toe
-
-just a normal tic tac toe
-
+#A-C-Sharp-Game
 made by me kristersCOOL
