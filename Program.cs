@@ -18,3 +18,6 @@ namesspace MyGame
       }
   }
 }
+// Izveidot jaunu konsoles aplikāciju:
+//
+// dotnet new console -o SpelesNosaukums

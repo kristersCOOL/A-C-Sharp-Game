@@ -1,0 +1,27 @@
+# Ignore build output files
+bin/
+obj/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled executables
+*.exe
+*.dll
+
+# Ignore database files
+*.db
+*.db3
+*.sqlite
